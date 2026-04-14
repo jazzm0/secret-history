@@ -1,0 +1,4 @@
+I want you to create from each file in the raw directory a summarizing file, which is more like literature. 
+You are not allowed to change the semantics in any way. 
+If questions are asked and answered, then formulate the answer so, that it blends into the context of the text.
+The output should be in md format. Don't change the original files.
